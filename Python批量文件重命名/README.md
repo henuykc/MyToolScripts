@@ -1,0 +1,1 @@
+在testdata/中，文件名形如12-12，“-”的左右两侧是月份。当你运行完BatchRename.py文件后，文件将会重命名为COVID-19_Dec.--COVID-19_Dec.的形式。此外，BatchRename.py代码中包含对特定格式文件重命名的部分。
